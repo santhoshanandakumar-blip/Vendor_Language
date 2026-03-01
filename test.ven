@@ -1,0 +1,14 @@
+show --- VENDOR LANGUAGE MASTER TEST ---
+காட்டு --- வெண்டர் மொழிக்கு நல்வரவு ---
+
+set a to 10
+பதிவு b = 5
+
+add a and b
+a மற்றும் b ஐ கூட்டு
+
+if a > 5 then show A is greater than 5
+a > 5 என்றால் காட்டு A பெரிய எண்
+
+repeat 3 times show Vendor is Awesome!
+2 முறை திரும்பு காட்டு வெண்டர் வெல்லும்!
